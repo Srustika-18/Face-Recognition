@@ -21,14 +21,7 @@ This open-source project is dedicated to developing a robust face recognition sy
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/face-recognition-project.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. [Provide additional setup instructions if necessary]
-
-## Usage
-
-1. [Include step-by-step usage instructions]
-2. [Provide example commands or code snippets]
+1. Clone the repository: `git clone https://github.com/Srustika-18/Face-Recognition.git`
 
 ## Contribution Guidelines
 
